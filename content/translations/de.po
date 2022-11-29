@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-27 18:48+0100\n"
+"POT-Creation-Date: 2022-11-29 08:48+0100\n"
 "PO-Revision-Date: 2022-11-27 18:07+0100\n"
 "Last-Translator: Ronny Standtke <ronny.standtke@gmx.net>\n"
 "Language-Team: DE <DE@li.org>\n"
@@ -16,22 +16,40 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../temp.py:60
+#: ../temp.py:55
 msgid "Click to add points, tap \"d\" to delete them"
-msgstr "Klicken, um Punkte hinzuzufügen,\n\"d\" drücken, um sie zu löschen"
+msgstr ""
+"Klicken, um Punkte hinzuzufügen,\n"
+"\"d\" drücken, um sie zu löschen"
 
-#: ../temp.py:279
+#: ../temp.py:276
+#, python-format
+msgid ""
+"<h1>Runge&apos;s phenomenon</h1>             Runge&apos;s phenomenon shows "
+"the problem that going to higher degrees does not always improve accuracy in "
+"polynomial interpolation.<br>             See &rarr; <a href=\"https://en."
+"wikipedia.org/wiki/Runge%27s_phenomenon\" target=\"_blank\">this Wikipedia "
+"article</a> &larr; for more details.<br><hr>"
+msgstr ""
+"<h1>Runges Phänomen</h1>             Runges Phänomen zeigt "
+"das Problem, dass sich die Interpolationsgüte nicht immer verbessert, wenn "
+"mehr Stützpunkte hinzugefügt werden.<br>             Mehr Informationen "
+"dazu sind in &rarr; <a href=\"https://de.wikipedia.org/wiki/"
+"Polynominterpolation#Runges_Ph%C3%A4nomen\" target=\"_blank\">diesem "
+"Wikipedia-Artikel</a> &larr; zu finden.<br><hr>"
+
+#: ../temp.py:281
 msgid "Add Quadratic Function"
 msgstr "Quadratische Funktion hinzufügen"
 
-#: ../temp.py:282
+#: ../temp.py:284
 msgid "Add Runge Function"
 msgstr "Runge-Funktion hinzufügen"
 
-#: ../temp.py:285
+#: ../temp.py:287
 msgid "Restart"
 msgstr "Neustart"
 
-#: ../temp.py:296
+#: ../temp.py:298
 msgid "Clear output"
 msgstr "Ausgaben löschen"

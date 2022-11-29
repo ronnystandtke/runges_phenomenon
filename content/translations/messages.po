@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-27 18:49+0100\n"
+"POT-Creation-Date: 2022-11-29 12:48+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,22 +17,32 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../temp.py:60
+#: ../temp.py:55
 msgid "Click to add points, tap \"d\" to delete them"
 msgstr ""
 
-#: ../temp.py:279
+#: ../temp.py:276
+#, python-format
+msgid ""
+"<h1>Runge&apos;s phenomenon</h1>             Runge&apos;s phenomenon shows "
+"the problem that going to higher degrees does not always improve accuracy in "
+"polynomial interpolation.<br>             See &rarr; <a href=\"https://en."
+"wikipedia.org/wiki/Runge%27s_phenomenon\" target=\"_blank\">this Wikipedia "
+"article</a> &larr; for more details.<br><hr>"
+msgstr ""
+
+#: ../temp.py:281
 msgid "Add Quadratic Function"
 msgstr ""
 
-#: ../temp.py:282
+#: ../temp.py:284
 msgid "Add Runge Function"
 msgstr ""
 
-#: ../temp.py:285
+#: ../temp.py:287
 msgid "Restart"
 msgstr ""
 
-#: ../temp.py:296
+#: ../temp.py:298
 msgid "Clear output"
 msgstr ""
