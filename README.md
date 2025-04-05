@@ -5,9 +5,9 @@ See the --> [this Wikipedia article](https://en.wikipedia.org/wiki/Runge%27s_phe
 
 ## Try it in your browser
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://ronnystandtke.github.io/runges_phenomenon/lab?path=Runges+phenomenon.ipynb)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://ronnystandtke.github.io/runges_phenomenon/notebooks/index.html?path=Runges+phenomenon.ipynb)
 
-➡️ **https://ronnystandtke.github.io/runges_phenomenon/lab?path=Runges+phenomenon.ipynb**
+➡️ **https://ronnystandtke.github.io/runges_phenomenon/notebooks/index.html?path=Runges+phenomenon.ipynb**
 
 ## Requirements
 
